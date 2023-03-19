@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+numba
+numpy
+pillow
+pycairo
+pyglet==1.5.27
+pyyaml
+scipy
+tqdm
+vispy
